@@ -411,3 +411,7 @@ table {
         }
     }
 }
+a:hover{
+    background-color: lightblue;
+}
+
