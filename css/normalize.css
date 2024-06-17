@@ -401,6 +401,7 @@ table {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
+        width: fit-content;
     }
 }
 .middle-text{
